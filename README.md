@@ -63,22 +63,6 @@ This app is built with **Streamlit** and hosted on Replit.
 # Run it locally (or in Replit shell)
 streamlit run app.py
 ```
-## 📁 Project Structure
-
-quakesense/
-
-├── app.py                               # Streamlit web app
-
-├── random_forest_model.pkl              # Trained ML model
-
-├── data/                                # Raw and processed datasets
-
-├── visuals/                             # Feature importance plots
-
-├── requirements.txt                     # Python dependencies
-
-└── README.md                            # Project documentation
- 
 
 ## 🛠 Tech Stack
 
