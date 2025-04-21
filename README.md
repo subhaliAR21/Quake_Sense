@@ -67,18 +67,18 @@ streamlit run app.py
 
 quakesense/
 
-├── app.py                   # Streamlit web app
+├── app.py                               # Streamlit web app
 
-├── random_forest_model.pkl  # Trained ML model
+├── random_forest_model.pkl              # Trained ML model
 
-├── data/                    # Raw and processed datasets
+├── data/                                # Raw and processed datasets
 
-├── visuals/                 # Feature importance plots
+├── visuals/                             # Feature importance plots
 
-├── requirements.txt         # Python dependencies
+├── requirements.txt                     # Python dependencies
 
-└── README.md                # Project documentation
-
+└── README.md                            # Project documentation
+ 
 
 ## 🛠 Tech Stack
 
